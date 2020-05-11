@@ -1,0 +1,22 @@
+{
+    "name": "quantox/project2",
+    "authors": [
+        {
+            "name": "Ilijan91",
+            "email": "ilijan.militar@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            
+        },
+        "classmap": [
+            "app/core",
+            "app/models"
+        ],
+        "files": [
+            "config.php"
+        ]
+    }
+}
